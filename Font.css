@@ -1,0 +1,8 @@
+@font-face{
+	font-family: Nova;
+	src: url(FontsFree-Net-hk-nova-heavy-r.ttf);
+}
+
+div{
+	font-family: Nova;
+}
